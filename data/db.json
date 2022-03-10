@@ -1,0 +1,628 @@
+{
+  "countries": [
+    {
+      "name": "Nigeria",
+      "topLevelDomain": [".ng"],
+      "alpha2Code": "NG",
+      "alpha3Code": "NGA",
+      "callingCodes": ["234"],
+      "capital": "Abuja",
+      "altSpellings": [
+        "NG",
+        "Nijeriya",
+        "Naíjíríà",
+        "Federal Republic of Nigeria"
+      ],
+      "subregion": "Western Africa",
+      "region": "Africa",
+      "population": 206139587,
+      "latlng": [10.0, 8.0],
+      "demonym": "Nigerian",
+      "area": 923768.0,
+      "gini": 35.1,
+      "timezones": ["UTC+01:00"],
+      "borders": ["BEN", "CMR", "TCD", "NER"],
+      "nativeName": "Nigeria",
+      "numericCode": "566",
+      "flags": {
+        "svg": "https://flagcdn.com/ng.svg",
+        "png": "https://flagcdn.com/w320/ng.png"
+      },
+      "currencies": [
+        { "code": "NGN", "name": "Nigerian naira", "symbol": "₦" }
+      ],
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        }
+      ],
+      "translations": {
+        "br": "Nigéria",
+        "pt": "Nigéria",
+        "nl": "Nigeria",
+        "hr": "Nigerija",
+        "fa": "نیجریه",
+        "de": "Nigeria",
+        "es": "Nigeria",
+        "fr": "Nigéria",
+        "ja": "ナイジェリア",
+        "it": "Nigeria",
+        "hu": "Nigéria"
+      },
+      "flag": "https://flagcdn.com/ng.svg",
+      "regionalBlocs": [
+        {
+          "acronym": "AU",
+          "name": "African Union",
+          "otherNames": [
+            "الاتحاد الأفريقي",
+            "Union africaine",
+            "União Africana",
+            "Unión Africana",
+            "Umoja wa Afrika"
+          ]
+        }
+      ],
+      "cioc": "NGR",
+      "independent": true,
+      "id": 1
+    },
+
+    {
+      "name": "Peru",
+      "topLevelDomain": [".pe"],
+      "alpha2Code": "PE",
+      "alpha3Code": "PER",
+      "callingCodes": ["51"],
+      "capital": "Lima",
+      "altSpellings": ["PE", "Republic of Peru", " República del Perú"],
+      "subregion": "South America",
+      "region": "Americas",
+      "population": 32971846,
+      "latlng": [-10.0, -76.0],
+      "demonym": "Peruvian",
+      "area": 1285216.0,
+      "gini": 41.5,
+      "timezones": ["UTC-05:00"],
+      "borders": ["BOL", "BRA", "CHL", "COL", "ECU"],
+      "nativeName": "Perú",
+      "numericCode": "604",
+      "flags": {
+        "svg": "https://flagcdn.com/pe.svg",
+        "png": "https://flagcdn.com/w320/pe.png"
+      },
+      "currencies": [
+        { "code": "PEN", "name": "Peruvian sol", "symbol": "S/." }
+      ],
+      "languages": [
+        {
+          "iso639_1": "es",
+          "iso639_2": "spa",
+          "name": "Spanish",
+          "nativeName": "Español"
+        }
+      ],
+      "translations": {
+        "br": "Peru",
+        "pt": "Peru",
+        "nl": "Peru",
+        "hr": "Peru",
+        "fa": "پرو",
+        "de": "Peru",
+        "es": "Perú",
+        "fr": "Pérou",
+        "ja": "ペルー",
+        "it": "Perù",
+        "hu": "Peru"
+      },
+      "flag": "https://flagcdn.com/pe.svg",
+      "regionalBlocs": [
+        {
+          "acronym": "PA",
+          "name": "Pacific Alliance",
+          "otherNames": ["Alianza del Pacífico"]
+        },
+        {
+          "acronym": "USAN",
+          "name": "Union of South American Nations",
+          "otherAcronyms": ["UNASUR", "UNASUL", "UZAN"],
+          "otherNames": [
+            "Unión de Naciones Suramericanas",
+            "União de Nações Sul-Americanas",
+            "Unie van Zuid-Amerikaanse Naties",
+            "South American Union"
+          ]
+        }
+      ],
+      "cioc": "PER",
+      "independent": true,
+      "id": 2
+    },
+
+    {
+      "name": "Ghana",
+      "topLevelDomain": [".gh"],
+      "alpha2Code": "GH",
+      "alpha3Code": "GHA",
+      "callingCodes": ["233"],
+      "capital": "Accra",
+      "altSpellings": ["GH"],
+      "subregion": "Western Africa",
+      "region": "Africa",
+      "population": 31072945,
+      "latlng": [8.0, -2.0],
+      "demonym": "Ghanaian",
+      "area": 238533.0,
+      "gini": 43.5,
+      "timezones": ["UTC"],
+      "borders": ["BFA", "CIV", "TGO"],
+      "nativeName": "Ghana",
+      "numericCode": "288",
+      "flags": {
+        "svg": "https://flagcdn.com/gh.svg",
+        "png": "https://flagcdn.com/w320/gh.png"
+      },
+      "currencies": [{ "code": "GHS", "name": "Ghanaian cedi", "symbol": "₵" }],
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        }
+      ],
+      "translations": {
+        "br": "Gana",
+        "pt": "Gana",
+        "nl": "Ghana",
+        "hr": "Gana",
+        "fa": "غنا",
+        "de": "Ghana",
+        "es": "Ghana",
+        "fr": "Ghana",
+        "ja": "ガーナ",
+        "it": "Ghana",
+        "hu": "Ghána"
+      },
+      "flag": "https://flagcdn.com/gh.svg",
+      "regionalBlocs": [
+        {
+          "acronym": "AU",
+          "name": "African Union",
+          "otherNames": [
+            "الاتحاد الأفريقي",
+            "Union africaine",
+            "União Africana",
+            "Unión Africana",
+            "Umoja wa Afrika"
+          ]
+        }
+      ],
+      "cioc": "GHA",
+      "independent": true,
+      "id": 3
+    },
+
+    {
+      "name": "Benin",
+      "topLevelDomain": [".bj"],
+      "alpha2Code": "BJ",
+      "alpha3Code": "BEN",
+      "callingCodes": ["229"],
+      "capital": "Porto-Novo",
+      "altSpellings": ["BJ", "Republic of Benin", "République du Bénin"],
+      "subregion": "Western Africa",
+      "region": "Africa",
+      "population": 12123198,
+      "latlng": [9.5, 2.25],
+      "demonym": "Beninese",
+      "area": 112622.0,
+      "gini": 47.8,
+      "timezones": ["UTC+01:00"],
+      "borders": ["BFA", "NER", "NGA", "TGO"],
+      "nativeName": "Bénin",
+      "numericCode": "204",
+      "flags": {
+        "svg": "https://flagcdn.com/bj.svg",
+        "png": "https://flagcdn.com/w320/bj.png"
+      },
+      "currencies": [
+        { "code": "XOF", "name": "West African CFA franc", "symbol": "Fr" }
+      ],
+      "languages": [
+        {
+          "iso639_1": "fr",
+          "iso639_2": "fra",
+          "name": "French",
+          "nativeName": "français"
+        }
+      ],
+      "translations": {
+        "br": "Benin",
+        "pt": "Benim",
+        "nl": "Benin",
+        "hr": "Benin",
+        "fa": "بنین",
+        "de": "Benin",
+        "es": "Benín",
+        "fr": "Bénin",
+        "ja": "ベナン",
+        "it": "Benin",
+        "hu": "Benin"
+      },
+      "flag": "https://flagcdn.com/bj.svg",
+      "regionalBlocs": [
+        {
+          "acronym": "AU",
+          "name": "African Union",
+          "otherNames": [
+            "الاتحاد الأفريقي",
+            "Union africaine",
+            "União Africana",
+            "Unión Africana",
+            "Umoja wa Afrika"
+          ]
+        }
+      ],
+      "cioc": "BEN",
+      "independent": true,
+      "id": 4
+    },
+
+    {
+      "name": "Cameroon",
+      "topLevelDomain": [".cm"],
+      "alpha2Code": "CM",
+      "alpha3Code": "CMR",
+      "callingCodes": ["237"],
+      "capital": "Yaoundé",
+      "altSpellings": ["CM", "Republic of Cameroon", "République du Cameroun"],
+      "subregion": "Middle Africa",
+      "region": "Africa",
+      "population": 26545864,
+      "latlng": [6.0, 12.0],
+      "demonym": "Cameroonian",
+      "area": 475442.0,
+      "gini": 46.6,
+      "timezones": ["UTC+01:00"],
+      "borders": ["CAF", "TCD", "COG", "GNQ", "GAB", "NGA"],
+      "nativeName": "Cameroon",
+      "numericCode": "120",
+      "flags": {
+        "svg": "https://flagcdn.com/cm.svg",
+        "png": "https://flagcdn.com/w320/cm.png"
+      },
+      "currencies": [
+        { "code": "XAF", "name": "Central African CFA franc", "symbol": "Fr" }
+      ],
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        },
+        {
+          "iso639_1": "fr",
+          "iso639_2": "fra",
+          "name": "French",
+          "nativeName": "français"
+        }
+      ],
+      "translations": {
+        "br": "Camarões",
+        "pt": "Camarões",
+        "nl": "Kameroen",
+        "hr": "Kamerun",
+        "fa": "کامرون",
+        "de": "Kamerun",
+        "es": "Camerún",
+        "fr": "Cameroun",
+        "ja": "カメルーン",
+        "it": "Camerun",
+        "hu": "Kamerun"
+      },
+      "flag": "https://flagcdn.com/cm.svg",
+      "regionalBlocs": [
+        {
+          "acronym": "AU",
+          "name": "African Union",
+          "otherNames": [
+            "الاتحاد الأفريقي",
+            "Union africaine",
+            "União Africana",
+            "Unión Africana",
+            "Umoja wa Afrika"
+          ]
+        }
+      ],
+      "cioc": "CMR",
+      "independent": true,
+      "id": 5
+    },
+
+    {
+      "name": "Niger",
+      "topLevelDomain": [".ne"],
+      "alpha2Code": "NE",
+      "alpha3Code": "NER",
+      "callingCodes": ["227"],
+      "capital": "Niamey",
+      "altSpellings": [
+        "NE",
+        "Nijar",
+        "Republic of Niger",
+        "République du Niger"
+      ],
+      "subregion": "Western Africa",
+      "region": "Africa",
+      "population": 24206636,
+      "latlng": [16.0, 8.0],
+      "demonym": "Nigerien",
+      "area": 1267000.0,
+      "gini": 34.3,
+      "timezones": ["UTC+01:00"],
+      "borders": ["DZA", "BEN", "BFA", "TCD", "LBY", "MLI", "NGA"],
+      "nativeName": "Niger",
+      "numericCode": "562",
+      "flags": {
+        "svg": "https://flagcdn.com/ne.svg",
+        "png": "https://flagcdn.com/w320/ne.png"
+      },
+      "currencies": [
+        { "code": "XOF", "name": "West African CFA franc", "symbol": "Fr" }
+      ],
+      "languages": [
+        {
+          "iso639_1": "fr",
+          "iso639_2": "fra",
+          "name": "French",
+          "nativeName": "français"
+        }
+      ],
+      "translations": {
+        "br": "Níger",
+        "pt": "Níger",
+        "nl": "Niger",
+        "hr": "Niger",
+        "fa": "نیجر",
+        "de": "Niger",
+        "es": "Níger",
+        "fr": "Niger",
+        "ja": "ニジェール",
+        "it": "Niger",
+        "hu": "Niger"
+      },
+      "flag": "https://flagcdn.com/ne.svg",
+      "regionalBlocs": [
+        {
+          "acronym": "AU",
+          "name": "African Union",
+          "otherNames": [
+            "الاتحاد الأفريقي",
+            "Union africaine",
+            "União Africana",
+            "Unión Africana",
+            "Umoja wa Afrika"
+          ]
+        }
+      ],
+      "cioc": "NIG",
+      "independent": true,
+      "id": 6
+    },
+
+    {
+      "name": "Chad",
+      "topLevelDomain": [".td"],
+      "alpha2Code": "TD",
+      "alpha3Code": "TCD",
+      "callingCodes": ["235"],
+      "capital": "N'Djamena",
+      "altSpellings": [
+        "TD",
+        "Tchad",
+        "Republic of Chad",
+        "République du Tchad"
+      ],
+      "subregion": "Middle Africa",
+      "region": "Africa",
+      "population": 16425859,
+      "latlng": [15.0, 19.0],
+      "demonym": "Chadian",
+      "area": 1284000.0,
+      "gini": 43.3,
+      "timezones": ["UTC+01:00"],
+      "borders": ["CMR", "CAF", "LBY", "NER", "NGA", "SDN"],
+      "nativeName": "Tchad",
+      "numericCode": "148",
+      "flags": {
+        "svg": "https://flagcdn.com/td.svg",
+        "png": "https://flagcdn.com/w320/td.png"
+      },
+      "currencies": [
+        { "code": "XAF", "name": "Central African CFA franc", "symbol": "Fr" }
+      ],
+      "languages": [
+        {
+          "iso639_1": "fr",
+          "iso639_2": "fra",
+          "name": "French",
+          "nativeName": "français"
+        },
+        {
+          "iso639_1": "ar",
+          "iso639_2": "ara",
+          "name": "Arabic",
+          "nativeName": "العربية"
+        }
+      ],
+      "translations": {
+        "br": "Chade",
+        "pt": "Chade",
+        "nl": "Tsjaad",
+        "hr": "Čad",
+        "fa": "چاد",
+        "de": "Tschad",
+        "es": "Chad",
+        "fr": "Tchad",
+        "ja": "チャド",
+        "it": "Ciad",
+        "hu": "Csád"
+      },
+      "flag": "https://flagcdn.com/td.svg",
+      "regionalBlocs": [
+        {
+          "acronym": "AU",
+          "name": "African Union",
+          "otherNames": [
+            "الاتحاد الأفريقي",
+            "Union africaine",
+            "União Africana",
+            "Unión Africana",
+            "Umoja wa Afrika"
+          ]
+        }
+      ],
+      "cioc": "CHA",
+      "independent": true,
+      "id": 7
+    },
+
+    {
+      "name": "United Kingdom of Great Britain and Northern Ireland",
+      "topLevelDomain": [".uk"],
+      "alpha2Code": "GB",
+      "alpha3Code": "GBR",
+      "callingCodes": ["44"],
+      "capital": "London",
+      "altSpellings": ["GB", "UK", "Great Britain"],
+      "subregion": "Northern Europe",
+      "region": "Europe",
+      "population": 67215293,
+      "latlng": [54.0, -2.0],
+      "demonym": "British",
+      "area": 242900.0,
+      "gini": 35.1,
+      "timezones": [
+        "UTC-08:00",
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC-03:00",
+        "UTC-02:00",
+        "UTC",
+        "UTC+01:00",
+        "UTC+02:00",
+        "UTC+06:00"
+      ],
+      "borders": ["IRL"],
+      "nativeName": "United Kingdom",
+      "numericCode": "826",
+      "flags": {
+        "svg": "https://flagcdn.com/gb.svg",
+        "png": "https://flagcdn.com/w320/gb.png"
+      },
+      "currencies": [{ "code": "GBP", "name": "British pound", "symbol": "£" }],
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        }
+      ],
+      "translations": {
+        "br": "Reino Unido",
+        "pt": "Reino Unido",
+        "nl": "Verenigd Koninkrijk",
+        "hr": "Ujedinjeno Kraljevstvo",
+        "fa": "بریتانیای کبیر و ایرلند شمالی",
+        "de": "Vereinigtes Königreich",
+        "es": "Reino Unido",
+        "fr": "Royaume-Uni",
+        "ja": "イギリス",
+        "it": "Regno Unito",
+        "hu": "Nagy-Britannia"
+      },
+      "flag": "https://flagcdn.com/gb.svg",
+      "cioc": "GBR",
+      "independent": true,
+      "id": 8
+    },
+    {
+      "name": "Belgium",
+      "topLevelDomain": [".be"],
+      "alpha2Code": "BE",
+      "alpha3Code": "BEL",
+      "callingCodes": ["32"],
+      "capital": "Brussels",
+      "altSpellings": [
+        "BE",
+        "België",
+        "Belgie",
+        "Belgien",
+        "Belgique",
+        "Kingdom of Belgium",
+        "Koninkrijk België",
+        "Royaume de Belgique",
+        "Königreich Belgien"
+      ],
+      "subregion": "Western Europe",
+      "region": "Europe",
+      "population": 11555997,
+      "latlng": [50.83333333, 4.0],
+      "demonym": "Belgian",
+      "area": 30528.0,
+      "gini": 27.2,
+      "timezones": ["UTC+01:00"],
+      "borders": ["FRA", "DEU", "LUX", "NLD"],
+      "nativeName": "België",
+      "numericCode": "056",
+      "flags": {
+        "svg": "https://flagcdn.com/be.svg",
+        "png": "https://flagcdn.com/w320/be.png"
+      },
+      "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+      "languages": [
+        {
+          "iso639_1": "nl",
+          "iso639_2": "nld",
+          "name": "Dutch",
+          "nativeName": "Nederlands"
+        },
+        {
+          "iso639_1": "fr",
+          "iso639_2": "fra",
+          "name": "French",
+          "nativeName": "français"
+        },
+        {
+          "iso639_1": "de",
+          "iso639_2": "deu",
+          "name": "German",
+          "nativeName": "Deutsch"
+        }
+      ],
+      "translations": {
+        "br": "Bélgica",
+        "pt": "Bélgica",
+        "nl": "België",
+        "hr": "Belgija",
+        "fa": "بلژیک",
+        "de": "Belgien",
+        "es": "Bélgica",
+        "fr": "Belgique",
+        "ja": "ベルギー",
+        "it": "Belgio",
+        "hu": "Belgium"
+      },
+      "flag": "https://flagcdn.com/be.svg",
+      "regionalBlocs": [{ "acronym": "EU", "name": "European Union" }],
+      "cioc": "BEL",
+      "independent": true
+    }
+  ]
+}
